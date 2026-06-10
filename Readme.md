@@ -1,6 +1,6 @@
 # Rise QA Agent (v3.1) 🔬📐
 
-> **🔗 Live Demo:** Test the prototype instantly at [linuxsunil.github.io/RiseQAtool](https://linuxsunil.github.io/RiseQAtool/)
+> **🔗 Live Demo:** Test the prototype instantly at https://nithin-gugg.github.io/Rise-QA-Tool/
 
 > **⚠️ Experimental Sandbox:** This tool is an early-stage proof-of-concept exploring "Learning-as-Code" workflows. It is **not** a production-ready compliance auditor. It requires rigorous testing, refinement for complex edge cases, and human validation to guard against LLM hallucinations.
 
